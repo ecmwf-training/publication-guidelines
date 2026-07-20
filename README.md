@@ -45,10 +45,10 @@ ECMWF Jupyter notebooks and Jupyterbooks for external training undergo quality c
   * For ECWMF staff, please contact training@ecmwf.int to begin the process of accepting new content.
   * If you are working on a contract for ECMWF, contributions should be arranged via the Technical Officer assigned to your contract.
   * Public contributions can only be accepted as pull requests to existing repositories found here
-1. Decide whether contributions go into existing repository or a new repository is created by ECMWF training admin.
-1. Follow templates for Jupyter notebook and Jupyterbook creation and quality control (if applicable) https://github.com/ecmwf-training/jupyterbook-template
-1. When notebook or Jupyterbook has passed quality control and is ready for publication, raise a pull request.
-1. Notebook undergoes internal review and contributors are expected to repond to any editorial requests.
+2. Decide whether contributions go into existing repository or a new repository is created by ECMWF training admin.
+3. Follow templates for Jupyter notebook and Jupyterbook creation and quality control (if applicable) https://github.com/ecmwf-training/jupyterbook-template
+4. When notebook or Jupyterbook has passed quality control and is ready for publication, raise a pull request.
+5. Notebook undergoes internal review and contributors are expected to repond to any editorial requests.
 
 ## Maintenance of ECMWF Jupyter resources
 Internal staff responsible for ECMWF Jupyter notebooks and Jupyterbooks for external training are also responsible for maintenance. If there is no commitment to maintenance (e.g. following completion of training event), this must be made clear in the README of the hosting repository. Jupyter resources on the publically available ECMWF learning catalogue must be maintained, or a date specified by which time they are removed.
